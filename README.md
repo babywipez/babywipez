@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @babywipez
-- 👀 I’m interested in ... front-end web development
-- 🌱 I’m currently learning ... HTML, CSS, & JavaScript
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... JavaScript, Python, Java
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 📫 How to reach me ... cassada.chris@gmail.com
 
 <!---
 babywipez/babywipez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
