@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babywipez
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... React, Tailwind, Python
+- 🌱 I’m currently learning ... React, Tailwind, Unity
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... cassada.chris@gmail.com
 
